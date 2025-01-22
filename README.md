@@ -9,5 +9,8 @@
 ## Day 1 
 [Introduction to Web Development](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%201)
 
-## day 2
+## Day 2
 [Variables and control statements](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%202)
+
+## Day 3
+[Object Literals, Object Constructors, and Dates](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%203)
