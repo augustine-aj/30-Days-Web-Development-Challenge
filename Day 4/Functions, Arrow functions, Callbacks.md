@@ -78,7 +78,7 @@ const functionName = (parameters) => expression;
 A callback is a function passed as an argument to another function. It is often used for asynchronous operations like fetching data, reading files, or handling events.
 
 <div align="center">
-    <img src="../resources/images/callback.jpg" alt="Node Express Image" width="500" />
+    <img src="../resources/images/callbacks.jpg" alt="Node Express Image" width="500" />
 </div>
 
 ### **Why Use Callbacks?**
