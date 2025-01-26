@@ -21,4 +21,7 @@
 ## Day 5
 [Functions, Arrow Functions, and Callbacks](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%205)
 
+## Day 6
+[Functions, Arrow Functions, and Callbacks](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%206)
+
 
