@@ -1,0 +1,21 @@
+<h1>{{title}}</h1>
+<p>Welcome to {{title}}</p>
+
+{{#each arr}}
+<h2>{{@index}}.{{this}}</h2>
+{{/each}}
+
+<h3>{{person.name}} commented: {{person.comments.comment}} , commented day: {{person.comments.posted_day}}</h3>
+
+{{#with person}}
+<h2>{{name}}</h2>
+{{#with comments}}
+<h2>{{comment}}, {{posted_day}}</h2>
+{{/with}}
+{{/with}}
+
+{{#if person.admin}}
+<h4>This is admin</h4>
+{{else}}
+<h4>This is not admin</h4>
+{{/if}}
