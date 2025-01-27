@@ -19,9 +19,12 @@
 [Functions, Arrow Functions, and Callbacks](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%204)
 
 ## Day 5
-[Functions, Arrow Functions, and Callbacks](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%205)
+[Classes, Objects, Inheritance, and Modules](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%205)
 
 ## Day 6
-[Functions, Arrow Functions, and Callbacks](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%206)
+[Simple Server Creation and Serving HTML Files](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%206)
+
+## Day 7
+[Routing and GET Requests (Without Using Express)](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%207)
 
 
