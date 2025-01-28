@@ -27,4 +27,7 @@
 ## Day 7
 [Routing and GET Requests (Without Using Express)](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%207)
 
+## Day 8
+[Introduction to Express](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%208)
+
 
