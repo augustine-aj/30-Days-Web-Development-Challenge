@@ -30,4 +30,7 @@
 ## Day 8
 [Introduction to Express](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%208)
 
+## Day 9
+[Express Generator](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%209)
+
 
