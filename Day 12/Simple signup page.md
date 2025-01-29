@@ -9,7 +9,7 @@ Today, we will create a **simple user signup page** and store the submitted user
 4. Storing user data upon form submission.
 
 <div align="center">
-    <img src="../resources/images/nodejs_monog.png" alt="Node Express Image" width="500" />
+    <img src="../resources/images/nodejs_mongo.png" alt="Node Express Image" width="500" />
 </div>
 
 ---
