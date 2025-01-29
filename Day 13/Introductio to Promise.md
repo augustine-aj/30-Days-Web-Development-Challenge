@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/30d67591-f551-41cc-a5a3-aeb66da11210)# Day 13: Introduction to Promises in JavaScript 🚀
+# Day 13: Introduction to Promises in JavaScript 🚀
 
 ## Overview 🌟
 Promises in JavaScript are used for handling asynchronous operations. They provide a cleaner and more manageable way to work with asynchronous code compared to callbacks.
