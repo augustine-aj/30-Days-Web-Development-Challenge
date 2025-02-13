@@ -49,6 +49,10 @@
 [Async, Await](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2014)
 
 ## Day 15
+[E-Commerce Project – Day 1](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2015)
+
+## Day 16
+[E-Commerce Project – Day 2](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2016)
 
 
 
