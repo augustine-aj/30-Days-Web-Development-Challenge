@@ -54,5 +54,8 @@
 ## Day 16
 [E-Commerce Project – Day 2](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2016)
 
+## Day 17
+[E-Commerce Project – Day 3](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2017)
+
 
 
