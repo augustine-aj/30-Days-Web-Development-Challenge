@@ -72,5 +72,8 @@
 ## Day 22
 [E-Commerce Project – Day 8](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2022)
 
+## Day 23
+[E-Commerce Project – Day 9](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2023)
+
 
 
