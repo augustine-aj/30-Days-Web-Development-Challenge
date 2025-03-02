@@ -85,9 +85,12 @@
 [E-Commerce Project – Day 12](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2026))
 
 ## Day 27
-[](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2027)
+[E-Commerce Project – Day 13](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2027)
 
 ## Day 28
-[](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2028)
+[E-Commerce Project – Day 14](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2028)
+
+## Day 29
+[E-Commerce Project – Day 15](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2029)
 
 
