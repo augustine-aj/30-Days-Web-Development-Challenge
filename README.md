@@ -93,4 +93,7 @@
 ## Day 29
 [E-Commerce Project – Day 15](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2029)
 
+## Day 30
+[E-Commerce Project – Day 16](https://github.com/augustine-aj/30-Days-Web-Development-Challenge/tree/main/Day%2030)
+
 
